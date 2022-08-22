@@ -1,0 +1,3 @@
+# Ejercicos con localStorage
+
+El objeto *localStorage* nos permite almacenar información que podrá ser accesible incluso luego de cerrar la pestaña donde está nuestro sitio web (notar que es diferente que utilizar simples variables, las mismas pierden su valor luego de cerrar la pestaña del navegador). Más información en => [Mozilla Developer](https://developer.mozilla.org/es/docs/Web/API/Window/localStorage).
